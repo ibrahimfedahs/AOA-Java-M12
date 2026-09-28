@@ -1,5 +1,7 @@
 # EX 2B Jump Game using Greedy Algorithm.
 
+## DATE: 20-06-2026
+
 ## AIM:
 
 To write a Java program to for given constraints.
@@ -21,6 +23,9 @@ If it is not possible to reach the end, return -1.
 ## Program:
 
 ```java
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.*;
 
 public class JumpGame {
