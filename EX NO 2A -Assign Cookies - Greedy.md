@@ -1,8 +1,6 @@
 # EX 2A Assign Cookies using Greedy Algorithm.
 
-### Developed By: IBRAHIM FEDAH S
-
-### Register Number: 212223240056
+### DATE: 20-06-2026
 
 ## AIM:
 
@@ -22,6 +20,9 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 ## Program:
 
 ```java
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.*;
 
 public class AssignCookies {
