@@ -1,5 +1,7 @@
 # EX 2D Pattern Matching using Naive Approach.
 
+## DATE: 20-06-2026
+
 ## AIM:
 
 To write a Java program to for given constraints.  
@@ -25,6 +27,9 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 ## Program:
 
 ```java
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.Scanner;
 
 public class NaivePatternSearch {
