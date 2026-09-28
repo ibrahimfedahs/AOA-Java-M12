@@ -1,4 +1,6 @@
-# EX 2C Job Sequencing using Greedy Approach
+# EX 2C Job Sequencing using Greedy Approach.
+
+## DATE: 20-06-2026
 
 
 ## AIM:
@@ -28,6 +30,9 @@ Your goal is to maximize total profit while completing the maximum number of job
 ## Program:
 
 ```java
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.*;
 
 public class JobScheduling {
