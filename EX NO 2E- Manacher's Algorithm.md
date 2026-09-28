@@ -1,5 +1,7 @@
 # EX 2E Pattern Matching using KMP Algorithm.
 
+## DATE: 20-06-2026
+
 
 ## AIM:
 
@@ -19,6 +21,9 @@ using **Manacher's Algorithm**.
 ## Program:
 
 ```java
+Developed by: ibrahim fedah s
+Register Number: 212223240056
+
 import java.util.Scanner;
 
 public class Solution {
